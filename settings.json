@@ -1,0 +1,25 @@
+{
+    "version": 1,
+    "tables": {
+        "personalities": {
+            "name": "name",
+            "name_search": "name_search",
+            "avatar": "avatar",
+            "description_short": "description.short",
+            "description_full": "description.full",
+            "math_facts": "math_facts",
+            "life_start": "life.start",
+            "life_end": "life.end",
+            "_id": "_id"
+        },
+        "theorems": {
+            "title": "title",
+            "formulation": "formulation",
+            "data": "data",
+            "prove": "prove",
+            "proof": "proof",
+            "author": "author",
+            "_id": "_id"
+        }
+    }
+}
