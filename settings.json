@@ -3,6 +3,6 @@
     "tables": {
         "name_of_table": {
             "index_in_table": "key_in_data"
-        },
+        }
     }
 }
